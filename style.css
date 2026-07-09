@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(-45deg, rgb(151, 217, 255), rgb(189, 255, 248));
+    color:rgb(31, 51, 134);
+    border: 10px solid rgb(31, 51, 134);
+    padding: 20px;
+}
+
+a:link {
+    color: rgb(1, 161, 44);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(92, 0, 80);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(0, 92, 18);
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(92, 0, 80);
+}
+
+header{
+    color: rgb(0,0,0);
+    font-family: sans-serif;
+}
